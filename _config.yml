@@ -6,7 +6,7 @@ url: "https://metrocoin.co" # the base hostname & protocol for your site
 theme:
   # Meta
   title: Metrocoin
-  avatar: XMN.png
+  avatar: metrocoin-icon-small.png
   gravatar: # email md5 hash
   description: "Metrocoin" # used by search engines
   
