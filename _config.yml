@@ -1,19 +1,18 @@
 # SITE CONFIGURATION
 baseurl: "" # the subpath of your site, e.g. /blog/
-url: "https://czarparty.co" # the base hostname & protocol for your site
+url: "https://metrocoin.co" # the base hostname & protocol for your site
 
 # THEME-SPECIFIC CONFIGURATION
 theme:
   # Meta
-  title: Metronotes
+  title: Metrocoin
   avatar: XMN.png
   gravatar: # email md5 hash
-  description: "Distributed Application Development on the Bitcoin Network" # used by search engines
+  description: "Metrocoin" # used by search engines
   
   # Header and footer text
   header_text: >
-    <h2>Metronotes is better than paper money.</h2>
-    <p class='lead'>It has all of its qualities and none of its limits.</p>
+    <h2>Metrocoin is for growth.</h2>
   footer_text: >
    © <a href="https://treefunder.co">Treefunder Incorporated</a>
   
@@ -25,22 +24,22 @@ theme:
   dribbble: 
   facebook: 
   flickr: 
-  github: "metronotes"
+  github: "metrocoins"
   google_plus: 
   instagram: 
   linkedin:  # full URL
   pinterest: 
-  reddit: "metronotes"
+  reddit: "metrocoin"
   soundcloud: 
   stack_exchange:  # full URL
   steam: 
   tumblr: 
-  twitter: "MetronotesXMN"
+  twitter: "Metrocoins"
   wordpress: 
   youtube: 
   
   # Scripts
-  google_analytics: "UA-21065583-27" # tracking id, e.g. "UA-000000-01"
+  google_analytics: "UA-21065583-31" # tracking id, e.g. "UA-000000-01"
   disqus_shortname:
   
   # Localization strings
